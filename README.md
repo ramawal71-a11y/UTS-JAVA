@@ -1,3 +1,3 @@
 # UTS OOP 
-## Syamsun Ram Awal
-## 2251520
+> Syamsun Ram Awal
+> 2251520s
